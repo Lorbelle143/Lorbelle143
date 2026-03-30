@@ -3,8 +3,12 @@
 Hi! I'm a passionate developer who loves exploring new technologies and building interesting projects. 🚀
 
 📫 How to Reach Me
+
 📧 Email: lorbelleganzan@gmail.com
-📘 Facebook: [Lorbelle Ganzan]
+
+📘 Facebook: [lorbelle.ganzan.7]
+
+
 
 💬 Let's Connect
 
