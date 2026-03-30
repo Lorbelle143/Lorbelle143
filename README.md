@@ -1,12 +1,19 @@
-## Hi there Im Lorbelle 👋
+👋 Welcome to my GitHub Profile!
 
-#💻 Web Im Developer  
-🚀 Currently building systems using PHP, jvscript, css & TypeScript  
-📍 Philippines  
+Hi! I'm a passionate developer who loves exploring new technologies and building interesting projects. 🚀
 
- 🔧 Tech Stack
-- PHP
-- TypeScript
-- Supabase
-- MySQL
+📫 How to Reach Me
+📧 Email: lorbelleganzan@gmail.com
+📘 Facebook: [Lorbelle Ganzan]
 
+💬 Let's Connect
+
+I'm always open to collaborating on interesting projects and discussing innovative ideas. Feel free to reach out anytime!
+
+📈 GitHub Stats
+
+(You can add your GitHub stats here using GitHub Readme Stats later)
+
+🙌 Thanks for Visiting!
+
+Thank you for checking out my profile. Have a great day! 😊
