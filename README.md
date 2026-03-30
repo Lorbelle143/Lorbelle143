@@ -1,25 +1,12 @@
-## Hi there 👋
+## Hi there Im Lorbelle 👋
 
-<!--💻 Web Developer  
-🚀 Currently building systems using PHP & TypeScript  
+#💻 Web Im Developer  
+🚀 Currently building systems using PHP, jvscript, css & TypeScript  
 📍 Philippines  
 
-## 🔧 Tech Stack
+ 🔧 Tech Stack
 - PHP
 - TypeScript
 - Supabase
 - MySQL
 
-**Lorbelle143/Lorbelle143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
