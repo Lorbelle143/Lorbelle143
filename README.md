@@ -2,11 +2,18 @@
 
 Hi! I'm a passionate developer who loves exploring new technologies and building interesting projects. 🚀
 
+
+
 📫 How to Reach Me
+
+
 
 📧 Email: lorbelleganzan@gmail.com
 
-📘 Facebook: [lorbelle.ganzan.7]
+
+📘 Facebook: [[lorbelle.ganzan.7](https://www.facebook.com/lorbelle.ganzan.7)]
+
+
 
 
 
