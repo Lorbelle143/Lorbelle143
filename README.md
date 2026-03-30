@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-<!--
+<!--💻 Web Developer  
+🚀 Currently building systems using PHP & TypeScript  
+📍 Philippines  
+
+## 🔧 Tech Stack
+- PHP
+- TypeScript
+- Supabase
+- MySQL
+
 **Lorbelle143/Lorbelle143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
