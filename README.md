@@ -21,9 +21,7 @@ Hi! I'm a passionate developer who loves exploring new technologies and building
 
 I'm always open to collaborating on interesting projects and discussing innovative ideas. Feel free to reach out anytime!
 
-📈 GitHub Stats
 
-(You can add your GitHub stats here using GitHub Readme Stats later)
 
 🙌 Thanks for Visiting!
 
